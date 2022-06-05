@@ -8,8 +8,8 @@ export default class Config extends React.Component {
         <h1>Use the Panel Credits website to configure Panel Credits</h1>
         <p>
           Head on over to{" "}
-          <a href="https://panel-credits.vercel.app/" target="_blank">
-            https://panel-credits.vercel.app/
+          <a href="https://panelcredits.mmattDonk.com/" target="_blank">
+            https://panelcredits.mmattDonk.com/
           </a>{" "}
           to give your viewers credits, and to accept/reject panels.
         </p>
