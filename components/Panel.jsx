@@ -21,7 +21,7 @@ export default function PanelComponent(panel) {
       >
         {panel.image !== "" ?? panel.image !== undefined ? (
           <>  
-            <a href={panel.link}>
+            <a href={panel.link} target="_blank">
                 <Image
                   src={panel.image}
                   alt={panel.title}
