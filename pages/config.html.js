@@ -1,3 +1,3 @@
-import App from "../components/App";
+import Config from "../components/Config";
 
-export default () => <App />;
+export default () => <Config />;
