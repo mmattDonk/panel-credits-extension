@@ -9,7 +9,7 @@ Twitch Extension Next.js boilerplate.
 Clone this repo and open a terminal :
 
 ```sh
-npm i # or `yarn`
+pnpm i
 ```
 
 Using the Twitch Developer Rig, you can easily use this NextJS setup on your local machine. BConfigure your extension before using it in the Rig: go to your [Twitch developer console](https://dev.twitch.tv/console) and make sure that the "Testing Base URI" is set to http://localhost:3000 (the default for a NextJS project).

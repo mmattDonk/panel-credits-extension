@@ -10,7 +10,13 @@
     "export": "next export"
   },
   "dependencies": {
+    "@mantine/core": "^4.2.7",
+    "@mantine/hooks": "^4.2.7",
+    "@mantine/next": "^4.2.7",
+    "@mantine/notifications": "^4.2.7",
+    "axios": "^0.27.2",
     "jsonwebtoken": "^8.5.1",
+    "marked": "^4.0.16",
     "next": "latest",
     "react": "^16.10.0",
     "react-dom": "^16.10.0"
